@@ -447,6 +447,7 @@ img, video {
     background-color: #ffffff;
     gap: 12px;
     display: flex;
+    border-radius: 0 0 12px 12px;
 }
 
 .user-content-ai-inner-wrap {
@@ -488,7 +489,7 @@ img, video {
     display: flex;
 }
 
-.user-content-career-summary-word {
+.user-content-curry-summary-word {
     color: #12131499;
     width: 100%;
     letter-spacing: -.24px;
@@ -498,7 +499,7 @@ img, video {
     line-height: 16px;
 }
 
-.user-content-career-summary-bottom {
+.user-content-curry-summary-bottom {
     color: #121314;
     width: 100%;
     /* font-family: var(--texts--fonts--body); */
